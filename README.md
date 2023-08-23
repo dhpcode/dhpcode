@@ -4,14 +4,13 @@
 
 I've been learning frontend web since Jan, 2023. Currently I'm going to deep dive into Javascript and React.
 
-[👔 Portfolio](https://www.) | [ ✈ Telegram](https://t.me/davron1988)
+[👔 Portfolio](https://www.) | [ ✈ Telegram](https://t.me/davron1988) | [📧 Email](mailto:davrsirius@gmail.com)
 
 
 
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript**
 
-- 📫 How to reach me **davrsirius@gmail.com**
 
 <p align="left"> <a href="https://twitter.com/davronparpiev" target="blank"><img src="https://img.shields.io/twitter/follow/davronparpiev?logo=twitter&style=for-the-badge" alt="davronparpiev" /></a> </p>
 <h3 align="left">Connect with me:</h3>
