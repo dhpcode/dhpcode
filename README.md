@@ -9,9 +9,6 @@ I've been learning frontend web since Jan, 2023. Currently I'm going to deep div
 
 
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript**
-
-
 <p align="left"> <a href="https://twitter.com/davronparpiev" target="blank"><img src="https://img.shields.io/twitter/follow/davronparpiev?logo=twitter&style=for-the-badge" alt="davronparpiev" /></a> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
