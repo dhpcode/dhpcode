@@ -2,6 +2,8 @@
 
 <h3 align="center">Frontend Developer</h3>
 
+I've been learning frontend web since Jan, 2023. Currently I'm going to deep dive into Javascript and React.
+
 
 
 
