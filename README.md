@@ -4,12 +4,12 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/davronparpiev" target="blank"><img src="https://img.shields.io/twitter/follow/davronparpiev?logo=twitter&style=for-the-badge" alt="davronparpiev" /></a> </p>
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript**
 
 - 📫 How to reach me **davrsirius@gmail.com**
 
+<p align="left"> <a href="https://twitter.com/davronparpiev" target="blank"><img src="https://img.shields.io/twitter/follow/davronparpiev?logo=twitter&style=for-the-badge" alt="davronparpiev" /></a> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/davronparpiev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="davronparpiev" height="30" width="40" /></a>
