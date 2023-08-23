@@ -43,6 +43,13 @@ I've been learning frontend web since Jan, 2023. Currently I'm going to deep div
     </p>
 
 
+## Latest projects
+|   |   |
+|---|---|
+|   |   |
+|   |   |
+<img src="https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_475/Challenges/fhzpdnabrek50hvhftnl.jpg" alt="E-commerce product page" width="200"/>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/davronparpiev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="davronparpiev" height="30" width="40" /></a>
