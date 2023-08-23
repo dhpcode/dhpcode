@@ -4,7 +4,7 @@
 
 I've been learning frontend web since Jan, 2023. Currently I'm going to deep dive into Javascript and React.
 
-[Portfolio](https://www.) | [Telegram](https://t.me/davron1988)
+[👔 Portfolio](https://www.) | [ ✈ Telegram](https://t.me/davron1988)
 
 
 
