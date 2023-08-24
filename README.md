@@ -46,6 +46,7 @@ I've been learning frontend web since Jan, 2023. Currently I'm going to deep div
 |---|---|
 | <img src="https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_475/Challenges/fhzpdnabrek50hvhftnl.jpg" alt="E-commerce product page" width="200"/>  | <b>E-commerce product page.</b> <br><br> Building a beautiful product page. JS skills to the test with a lightbox product gallery and cart functionality! <br> [🧾 Repository -](https://github.com/dhpcode/ecommerce-product-page ) [🌐 Netlify](https://dvr-ecommerce-project.netlify.app/) <br><br> <b>Specificity - </b> Dropdown menu, lightbox modal, interactive javascript|
 |  <img src="https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_475/Challenges/o4iyywkwjc31epcmsmyo.jpg" alt="Easybank landing page" width="200"/> |  <b>Easybank landing page.</b> <br><br> The challenge provide a nice test for layout skills.<br> [🧾 Repository -](https://github.com/dhpcode/easy-bank)  [🌐 Netlify](https://dvr-easy-bank.netlify.app/) <br><br> <b>Specificity - </b> Awsome layout and beautiful design |
+[💼 All repositories](https://github.com/dhpcode?tab=repositories)
 
 
 <h3 align="left">Connect with me:</h3>
