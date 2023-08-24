@@ -59,9 +59,8 @@ I've been learning frontend web since Jan, 2023. Currently I'm going to deep div
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=davrsirius&show_icons=true&locale=en&layout=compact" alt="davrsirius" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhpcode&show_icons=true&locale=en&layout=compact" alt="dhpcode" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=davrsirius&show_icons=true&locale=en" alt="davrsirius" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhpcode&show_icons=true&locale=en" alt="dhpcode" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=davrsirius&" alt="davrsirius" /></p>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhpcode&" alt="dhpcode" /></p>
