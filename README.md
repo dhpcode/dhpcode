@@ -44,11 +44,11 @@ I've been learning frontend web since Jan, 2023. Currently I'm going to deep div
 
 
 ## Latest projects
-|   |   |
+| Preview  | Description  |
 |---|---|
+| <img src="https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_475/Challenges/fhzpdnabrek50hvhftnl.jpg" alt="E-commerce product page" width="200"/>  | <b>E-commerce product page.</b> <br> Building a beautiful product page. JS skills to the test with a lightbox product gallery and cart functionality!|
 |   |   |
-|   |   |
-<img src="https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_475/Challenges/fhzpdnabrek50hvhftnl.jpg" alt="E-commerce product page" width="200"/>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
