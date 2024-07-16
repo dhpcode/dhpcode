@@ -1,6 +1,6 @@
 # Frontend Developer
 
-I've been learning frontend web since Jan, 2023. Currently I'm going to deep dive into Javascript and React.
+I've been learning frontend web since Jan, 2023. Currently I'm going to deep dive into Javascript, Python, SQL.
 
 [👔 Portfolio](https://teletype.in/@dhpcode) | [ ✈ Telegram](https://t.me/davron1988) | [📧 Email](mailto:davrsirius@gmail.com)
 
